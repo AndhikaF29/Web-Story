@@ -1,0 +1,9 @@
+Nama: [NAMA ANDA]
+ID Dicoding: [ID DICODING ANDA]
+URL Deployment: [URL HASIL DEPLOYMENT]
+
+Catatan Penting:
+- Aplikasi telah diimplementasikan dengan PWA (Progressive Web App) yang dapat diinstal di homescreen dan berfungsi secara offline
+- Push notification telah diimplementasikan menggunakan VAPID key dari Dicoding API
+- IndexedDB digunakan untuk menyimpan cerita yang dapat diakses secara offline
+- Aplikasi dapat di-deploy menggunakan GitHub Pages, Netlify, atau Firebase Hosting
